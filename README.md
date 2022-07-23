@@ -5,7 +5,7 @@ https://drive.google.com/u/0/uc?id=1rKkUQU-sXIDka3rVNBahp6q3wDhrPY-1&export=down
 
 ## catatan :
 1. selalu tempatkan semua file dalam 1 folder
-2. sebelum eksekusi file .sh selalu dahulukan command : chmod u+x <nama_file>
+2. sebelum eksekusi file .sh dan .py selalu dahulukan command : chmod u+x <nama_file>
 3. gunakan command : bash <nama_file.sh> untuk eksekusi file .sh
 4. gunakan command : python3 <nama_file.py> untuk eksekusi file .py
 
