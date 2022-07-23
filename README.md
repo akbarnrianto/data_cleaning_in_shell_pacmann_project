@@ -9,6 +9,11 @@ https://drive.google.com/u/0/uc?id=1rKkUQU-sXIDka3rVNBahp6q3wDhrPY-1&export=down
 3. gunakan command : bash <nama_file.sh> untuk eksekusi file .sh
 4. gunakan command : python3 <nama_file.py> untuk eksekusi file .py
 
+## urutan jalankan file :
+1. eksekusi file data.sh
+2. eksekusi file split.py
+3. eksekusi file data_clean.sh untuk validasi hasil
+
 ## tujuan pengerjaan project
 untuk melakukan data_cleaning menggunakan linux terminal (wsl)
 
